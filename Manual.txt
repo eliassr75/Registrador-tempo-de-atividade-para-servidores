@@ -1,0 +1,4 @@
+para finalizar o processo:
+
+sc queryex TESTE
+taskkill /PID *** /F
